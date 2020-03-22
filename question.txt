@@ -1,0 +1,1 @@
+write a multithreaded program that implements the bankers algorithm.create n threads that request and release resources from bank. the banker will grand the request if the system is in safe state. it is important that the shared data be safe from concurrent access. to ensure safe access to shared data you can use mutex locks.
